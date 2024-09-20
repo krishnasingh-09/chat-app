@@ -18,8 +18,6 @@
         </ul>
     </li>
     <li>💻 Running the Application</li>
-    <li>📄 Documentation</li>
-    <li>📦 Deployment</li>
     <li>👤 About the Developer</li>
     <li>📬 Contact</li>
 </ul>
@@ -31,7 +29,7 @@
     <li><strong>Group Chat Functionality</strong>: Users can create and join group chats for collaborative communication.</li>
     <li><strong>Real-Time Message Updates</strong>: Messages are delivered instantly using WebSocket technology.</li>
     <li><strong>Video Calling or Audio Calling</strong>: Enhance communication with integrated video or audio calling capabilities.</li>
-    <li><strong>AI-Powered Chatbot (Optional)</strong>: Provide automated responses and support using an AI-driven chatbot feature.</li>
+    <li><strong>AI-Powered Chatbot (Will be added Soon)</strong>: Provide automated responses and support using an AI-driven chatbot feature.</li>
 </ul>
 
 <h2>⚙️ Technologies</h2>
@@ -52,7 +50,7 @@
 <h3>Database:</h3>
 <ul>
     <li><strong>MongoDB</strong>: A NoSQL database for flexible data storage.</li>
-    <li><strong>PostgreSQL</strong>: A SQL option that offers robust relational database capabilities.</li>
+  
 </ul>
 
 <h2>🚀 Getting Started</h2>
@@ -98,11 +96,7 @@ npm start
 <h2>💻 Running the Application</h2>
 <p>After starting both the backend and frontend servers, open your web browser and navigate to <code>http://localhost:3000</code> to access the messaging service. You can register a new account or log in with existing credentials.</p>
 
-<h2>📄 Documentation</h2>
-<p>Create a comprehensive system design document detailing the architecture, API endpoints, and data flow of your application. Additionally, include clear instructions on setting up and running your prototype, including dependencies and libraries used, along with explanations for your choices.</p>
 
-<h2>📦 Deployment</h2>
-<p>If you have the capability, deploy your prototype on a cloud platform (e.g., AWS, Heroku) and provide access for testing. Document the deployment process in your README.</p>
 
 <h2>👤 About the Developer</h2>
 <ul>
