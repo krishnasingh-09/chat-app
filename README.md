@@ -64,8 +64,7 @@
 <h3>Installation</h3>
 <p>Clone the repository:</p>
 <pre>
-git clone https://github.com/yourusername/messaging-service.git
-cd messaging-service
+git clone https://github.com/krishnasingh-09/chat-app.git
 </pre>
 
 <p>Set up the backend:</p>
